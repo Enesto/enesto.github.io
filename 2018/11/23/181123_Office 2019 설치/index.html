@@ -153,12 +153,16 @@
 <meta property="og:site_name" content="Hexo Project">
 <meta property="og:description" content="Office 2019 설치하기">
 <meta property="og:locale" content="ko">
-<meta property="og:image" content="https://t1.daumcdn.net/cfile/tistory/994CE84F5BEE57BB17">
-<meta property="og:updated_time" content="2018-11-23T11:29:15.000Z">
+<meta property="og:image" content="https://user-images.githubusercontent.com/45117781/48948521-b6146b80-ef6f-11e8-8593-452043523cf0.JPG">
+<meta property="og:image" content="https://user-images.githubusercontent.com/45117781/48948454-764d8400-ef6f-11e8-8e48-5e419f4e04e5.JPG">
+<meta property="og:image" content="https://user-images.githubusercontent.com/45117781/48948769-b103ec00-ef70-11e8-9362-84ead616e3fb.JPG">
+<meta property="og:image" content="https://user-images.githubusercontent.com/45117781/48948852-ec061f80-ef70-11e8-8966-ead9c2be0a2e.JPG">
+<meta property="og:image" content="https://user-images.githubusercontent.com/45117781/48948865-f4f6f100-ef70-11e8-90d1-e45bb9c7b7ae.JPG">
+<meta property="og:updated_time" content="2018-11-23T14:42:08.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Office 2019 설치">
 <meta name="twitter:description" content="Office 2019 설치하기">
-<meta name="twitter:image" content="https://t1.daumcdn.net/cfile/tistory/994CE84F5BEE57BB17">
+<meta name="twitter:image" content="https://user-images.githubusercontent.com/45117781/48948521-b6146b80-ef6f-11e8-8593-452043523cf0.JPG">
 
 
 
@@ -401,7 +405,7 @@
                 
               
 
-              <time title="Post created: 2018-11-23 12:35:50 / Updated at: 19:29:15" itemprop="dateCreated datePublished" datetime="2018-11-23T12:35:50+08:00">2018-11-23</time>
+              <time title="Post created: 2018-11-23 12:35:50 / Updated at: 22:42:08" itemprop="dateCreated datePublished" datetime="2018-11-23T12:35:50+08:00">2018-11-23</time>
             
 
             
@@ -466,16 +470,21 @@
 <p>이후 마운트 된 office 드라이브 전체를 복사해서 임의의 장소에 붙여넣기한다.</p>
 <p>16.0.10730.20102라는 폴더가 생성된다.</p>
 <p>아래 파일을 다운받아 압축을 풀고 안에 wotok.exe 파일을 16.0.10730.20102 폴더 안에 넣는다.</p>
-<p><a href="http://jsb000.tistory.com/attachment/cfile1.uf@991EFE4F5BEE57BC256303.7z" target="_blank" rel="noopener">wotok_x64_v2018.11.15.01.7z</a></p>
-<p><img src="https://t1.daumcdn.net/cfile/tistory/994CE84F5BEE57BB17" alt=""></p>
-<p>Excluded Apps에서 설치 하지 않을 프로그램을 선택한다.</p>
+<p><a href="https://github.com/paul0911/paul0911.github.io/files/2611022/wotok_x64_v2018.11.15.01.zip" target="_blank" rel="noopener">wotok_x64_v2018.11.15.01.zip</a></p>
+<p><img src="https://user-images.githubusercontent.com/45117781/48948521-b6146b80-ef6f-11e8-8593-452043523cf0.JPG" alt="office_0"></p>
+<p>wotok.exe를 실행한다.</p>
+<p><img src="https://user-images.githubusercontent.com/45117781/48948454-764d8400-ef6f-11e8-8e48-5e419f4e04e5.JPG" alt="office_"></p>
 <p>Visio와 Project를 설치하려면 Install VisioPro2019와 Install ProjectPro2019 체크박스를 체크한다.</p>
-<h3 id="인증하기"><a href="#인증하기" class="headerlink" title="인증하기"></a>인증하기</h3><p>커맨드 창을 관리자 권한으로 실행한다.</p>
+<h3 id="인증하기"><a href="#인증하기" class="headerlink" title="인증하기"></a>인증하기</h3><p>커맨드 창을 관리자 권한으로 실행한다. (Win키를 누르고 cmd를 검색하면 나오는 것을 오른쪽으로 클릭 후 관리자 권한으로 실행)</p>
 <figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cd Program Files\Microsoft Office\Office16</span><br></pre></td></tr></table></figure>
 <p>아래 명령중 하나를 실행한다.</p>
 <figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">cscript ospp.vbs /sethst:kms9.MSGuides.com</span><br><span class="line">혹은</span><br><span class="line">cscript ospp.vbs /sethst:kms8.MSGuides.com</span><br><span class="line">혹은</span><br><span class="line">cscript ospp.vbs /sethst:kms7.MSGuides.com</span><br></pre></td></tr></table></figure>
 <p>그 후 아래 명령을 실행한다.</p>
 <figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cscript ospp.vbs /act</span><br></pre></td></tr></table></figure>
+<p>오피스 프로그램을 실행시킨 후 파일 -&gt; 계정으로 가서 인증 확인을 한다.</p>
+<p><img src="https://user-images.githubusercontent.com/45117781/48948769-b103ec00-ef70-11e8-9362-84ead616e3fb.JPG" alt="office_1"></p>
+<p><img src="https://user-images.githubusercontent.com/45117781/48948852-ec061f80-ef70-11e8-8966-ead9c2be0a2e.JPG" alt="office_2"></p>
+<p><img src="https://user-images.githubusercontent.com/45117781/48948865-f4f6f100-ef70-11e8-90d1-e45bb9c7b7ae.JPG" alt="office_3"></p>
 <h3 id="참조사이트"><a href="#참조사이트" class="headerlink" title="참조사이트"></a>참조사이트</h3><ul>
 <li><a href="http://jsb000.tistory.com/1066" target="_blank" rel="noopener">http://jsb000.tistory.com/1066</a></li>
 <li><a href="https://msguides.com/microsoft-software-products/office-2019.html" target="_blank" rel="noopener">https://msguides.com/microsoft-software-products/office-2019.html</a></li>
