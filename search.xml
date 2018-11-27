@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[윈도우 설치 ISO 다운로드]]></title>
+    <url>%2F2018%2F11%2F27%2F181127_win_iso_down%2F</url>
+    <content type="text"><![CDATA[윈도우 설치 ISO 다운로드 https://tb.rg-adguard.net/public.php]]></content>
+      <categories>
+        <category>Windows</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[Office 2019 설치]]></title>
     <url>%2F2018%2F11%2F23%2F181123_Office%202019%20%EC%84%A4%EC%B9%98%2F</url>
-    <content type="text"><![CDATA[Office 2019 설치하기 설치 파일 다운로드 (.img)한글판http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ko-kr/ProPlus2019Retail.img 영문판http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2019Retail.img 중문판http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProPlus2019Retail.img 설치하기.img 파일 오른쪽 클릭 후 연결 프로그램 -&gt; Windows 탐색기 이후 마운트 된 office 드라이브 전체를 복사해서 임의의 장소에 붙여넣기한다. 16.0.10730.20102라는 폴더가 생성된다. 아래 파일을 다운받아 압축을 풀고 안에 wotok.exe 파일을 16.0.10730.20102 폴더 안에 넣는다. ​ wotok_x64_v2018.11.15.01.zip wotok.exe를 실행한다. ExcludedApps 에 체크된 것은 설치하지 않겠다는 의미 Visio와 Project까지 설치하고자 한다면 Install VisioPro2019와 Install ProjectPro2019 체크박스를 체크한다. 이후 Install Office 버튼을 누르면 설치가 진행된다. 인증하기커맨드 창을 관리자 권한으로 실행한다. (Win키를 누르고 cmd를 검색하면 나오는 것을 오른쪽으로 클릭 후 관리자 권한으로 실행) c:\Program Files\Microsoft Office\Office16 의 경로로 이동한다. 1cd C:\ 1cd Program Files\Microsoft Office\Office16 아래 명령중 하나를 실행한다. 12345cscript ospp.vbs /sethst:kms9.MSGuides.com혹은cscript ospp.vbs /sethst:kms8.MSGuides.com혹은cscript ospp.vbs /sethst:kms7.MSGuides.com 그 후 아래 명령을 실행한다. 1cscript ospp.vbs /act 오피스 프로그램을 실행시킨 후 파일 -&gt; 계정으로 가서 인증 확인을 한다. 참조사이트 http://jsb000.tistory.com/1066 https://msguides.com/microsoft-software-products/office-2019.html]]></content>
+    <content type="text"><![CDATA[Office 2019 설치하기 설치 파일 다운로드 (.img)한글판http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ko-kr/ProPlus2019Retail.img 영문판http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2019Retail.img 중문판http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProPlus2019Retail.img 설치하기.img 파일 오른쪽 클릭 후 연결 프로그램 -&gt; Windows 탐색기 이후 마운트 된 office 드라이브 전체를 복사해서 임의의 장소에 붙여넣기한다. 16.0.10730.20102라는 폴더가 생성된다. 아래 파일을 다운받아 압축을 풀고 안에 wotok.exe 파일을 16.0.10730.20102 폴더 안에 넣는다. ​ wotok_x64_v2018.11.15.01.zip wotok.exe를 실행한다. ExcludedApps 에 체크된 것은 설치하지 않겠다는 의미 Visio와 Project까지 설치하고자 한다면 Install VisioPro2019와 Install ProjectPro2019 체크박스를 체크한다. 이후 Install Office 버튼을 누르면 설치가 진행된다. 인증하기설치가 완료된 후 오피스 프로그램을 한번 실행시켰다가 종료해준다. 커맨드 창을 관리자 권한으로 실행한다. (Win키를 누르고 cmd를 검색하면 나오는 것을 오른쪽으로 클릭 후 관리자 권한으로 실행) c:\Program Files\Microsoft Office\Office16 의 경로로 이동한다. 1cd C:\ 1cd Program Files\Microsoft Office\Office16 아래 명령중 하나를 실행한다. 12345cscript ospp.vbs /sethst:kms9.MSGuides.com혹은cscript ospp.vbs /sethst:kms8.MSGuides.com혹은cscript ospp.vbs /sethst:kms7.MSGuides.com 그 후 아래 명령을 실행한다. 1cscript ospp.vbs /act 오피스 프로그램을 실행시킨 후 파일 -&gt; 계정으로 가서 인증 확인을 한다. 참조사이트 http://jsb000.tistory.com/1066 https://msguides.com/microsoft-software-products/office-2019.html]]></content>
       <categories>
         <category>Windows</category>
       </categories>
