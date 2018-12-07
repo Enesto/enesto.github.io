@@ -4,7 +4,7 @@
 
     <sitemap>
         <loc>https://enesto.github.io/post-sitemap.xml</loc>
-        <lastmod>2018-11-27T13:36:30.000Z</lastmod>
+        <lastmod>2018-12-07T14:57:26.000Z</lastmod>
     </sitemap>
 
     <sitemap>
@@ -15,6 +15,11 @@
     <sitemap>
         <loc>https://enesto.github.io/category-sitemap.xml</loc>
         <lastmod>2018-11-19T13:43:22.000Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://enesto.github.io/tag-sitemap.xml</loc>
+        <lastmod>2018-12-07T14:57:26.000Z</lastmod>
     </sitemap>
 
 </sitemapindex>
