@@ -185,7 +185,7 @@ th {
 }
 body {
   position: relative;
-  font-family: 'Lato', "KoPub Dotum", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 14px;
   line-height: 2;
   color: #555;
@@ -216,7 +216,7 @@ h6 {
   padding: 0;
   font-weight: bold;
   line-height: 1.5;
-  font-family: 'KoPub Dotum', 'Lato', "KoPub Dotum", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'KoPub Dotum', 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 h1,
 h2,
@@ -513,7 +513,7 @@ pre,
 }
 pre,
 code {
-  font-family: consolas, Menlo, "KoPub Dotum", "PingFang SC", "Microsoft YaHei", monospace;
+  font-family: consolas, Menlo, "PingFang SC", "Microsoft YaHei", monospace;
 }
 code {
   overflow-wrap: break-word;
@@ -618,6 +618,7 @@ pre .comment {
 pre .variable,
 pre .attribute,
 pre .tag,
+pre .name,
 pre .regexp,
 pre .ruby .constant,
 pre .xml .tag .title,
@@ -632,6 +633,7 @@ pre .css .pseudo {
 pre .number,
 pre .preprocessor,
 pre .built_in,
+pre .builtin-name,
 pre .literal,
 pre .params,
 pre .constant,
@@ -641,13 +643,13 @@ pre .command {
 pre .ruby .class .title,
 pre .css .rules .attribute,
 pre .string,
+pre .symbol,
 pre .value,
 pre .inheritance,
 pre .header,
 pre .ruby .symbol,
 pre .xml .cdata,
 pre .special,
-pre .number,
 pre .formula {
   color: #718c00;
 }
@@ -1146,7 +1148,7 @@ pre .javascript .function {
   line-height: 36px;
   font-size: 20px;
   font-weight: normal;
-  font-family: 'Lato', "KoPub Dotum", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 .site-subtitle {
   margin-top: 10px;
@@ -1238,7 +1240,7 @@ pre .javascript .function {
 .post-body {
   overflow-wrap: break-word;
   word-wrap: break-word;
-  font-family: 'KoPub Dotum', 'Lato', "KoPub Dotum", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'KoPub Dotum', 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 .post-body .exturl .fa {
   font-size: 14px;
@@ -1521,7 +1523,7 @@ pre .javascript .function {
 .posts-expand .post-meta {
   margin: 3px 0 60px 0;
   color: #999;
-  font-family: 'KoPub Dotum', 'Lato', "KoPub Dotum", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'KoPub Dotum', 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 12px;
   text-align: center;
 }
@@ -1860,7 +1862,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff4;
+  background: #aae0a8;
 }
 .links-of-blogroll {
   font-size: 13px;

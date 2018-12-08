@@ -8,13 +8,6 @@
     </url>
 
     <url>
-        <loc>https://enesto.github.io/categories/Linux/VPN/</loc>
-        <lastmod>2018-12-08T08:33:30.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://enesto.github.io/categories/Cadence/</loc>
         <lastmod>2018-12-08T09:32:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -24,13 +17,6 @@
     <url>
         <loc>https://enesto.github.io/categories/Cadence/IC-617/</loc>
         <lastmod>2018-12-08T09:32:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://enesto.github.io/categories/Linux/</loc>
-        <lastmod>2018-12-08T09:32:49.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -52,6 +38,20 @@
     <url>
         <loc>https://enesto.github.io/categories/Windows/</loc>
         <lastmod>2018-12-08T11:03:26.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://enesto.github.io/categories/Linux/</loc>
+        <lastmod>2018-12-08T11:14:08.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://enesto.github.io/categories/Linux/VPN/</loc>
+        <lastmod>2018-12-08T11:14:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
