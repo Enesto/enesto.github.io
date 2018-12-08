@@ -9,7 +9,8 @@
         <category>VPN</category>
       </categories>
       <tags>
-        <tag>google cloud, VPN</tag>
+        <tag>google cloud</tag>
+        <tag>VPN</tag>
       </tags>
   </entry>
   <entry>
@@ -27,6 +28,9 @@
       <categories>
         <category>Windows</category>
       </categories>
+      <tags>
+        <tag>Office 2019</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[Proxy for Window Command]]></title>
@@ -69,6 +73,9 @@
       <categories>
         <category>Hexo</category>
       </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>

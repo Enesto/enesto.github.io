@@ -3,8 +3,29 @@
 
 
     <url>
-        <loc>https://enesto.github.io/tags/google-cloud-VPN/</loc>
-        <lastmod>2018-12-07T15:19:48.000Z</lastmod>
+        <loc>https://enesto.github.io/tags/google-cloud/</loc>
+        <lastmod>2018-12-08T08:33:30.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://enesto.github.io/tags/VPN/</loc>
+        <lastmod>2018-12-08T08:33:30.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://enesto.github.io/tags/Office-2019/</loc>
+        <lastmod>2018-12-08T08:34:14.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://enesto.github.io/tags/Hexo/</loc>
+        <lastmod>2018-12-08T09:33:51.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

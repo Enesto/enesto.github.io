@@ -8,50 +8,50 @@
     </url>
 
     <url>
-        <loc>https://enesto.github.io/categories/Cadence/</loc>
-        <lastmod>2018-11-19T13:43:22.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://enesto.github.io/categories/Cadence/IC-617/</loc>
-        <lastmod>2018-11-19T13:43:22.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://enesto.github.io/categories/Linux/CentOS/</loc>
-        <lastmod>2018-11-19T14:47:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://enesto.github.io/categories/Hexo/</loc>
-        <lastmod>2018-11-23T15:57:00.000Z</lastmod>
+        <loc>https://enesto.github.io/categories/Linux/VPN/</loc>
+        <lastmod>2018-12-08T08:33:30.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://enesto.github.io/categories/Windows/</loc>
-        <lastmod>2018-11-27T13:36:30.000Z</lastmod>
+        <lastmod>2018-12-08T09:32:18.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://enesto.github.io/categories/Cadence/</loc>
+        <lastmod>2018-12-08T09:32:40.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://enesto.github.io/categories/Cadence/IC-617/</loc>
+        <lastmod>2018-12-08T09:32:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://enesto.github.io/categories/Linux/</loc>
-        <lastmod>2018-12-07T15:19:48.000Z</lastmod>
+        <lastmod>2018-12-08T09:32:49.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://enesto.github.io/categories/Linux/VPN/</loc>
-        <lastmod>2018-12-07T15:19:48.000Z</lastmod>
+        <loc>https://enesto.github.io/categories/Linux/CentOS/</loc>
+        <lastmod>2018-12-08T09:32:49.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://enesto.github.io/categories/Hexo/</loc>
+        <lastmod>2018-12-08T09:33:51.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
